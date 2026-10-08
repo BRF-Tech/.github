@@ -41,10 +41,11 @@ sudo snap install filex-app              # Linux with snapd
 
 # CLI
 brew install brf-tech/filex/filex        # macOS, Linux
+winget install BRFTech.filex             # Windows 10/11
 ```
 
-The winget packages, `BRFTech.filex-app` and `BRFTech.filex`, are submitted and
-waiting for review in [winget-pkgs](https://github.com/microsoft/winget-pkgs).
+The desktop app's winget package, `BRFTech.filex-app`, is submitted and waiting
+for review in [winget-pkgs](https://github.com/microsoft/winget-pkgs).
 
 How to run the server, plus the Windows installer, portable builds, AppImage,
 `.deb`, `.rpm` and `.dmg`: [Installation](https://docs.filex.sh/INSTALLATION) ·
